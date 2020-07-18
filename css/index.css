@@ -220,6 +220,13 @@ body{
     color: rgb(207, 82, 82);
   }
 
+  .checked_half{
+    display: inline-block;
+    background: linear-gradient(to right,rgb(207, 82, 82) 50%,black 50%);
+    color:transparent;
+    -webkit-background-clip: text;
+}
+
 /* ----------------------------分類--------------------------- */
 
 .tripleBox{
