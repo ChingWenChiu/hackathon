@@ -33,6 +33,9 @@ body{
     font-size: 25px;
 }
 
+#logo{
+    width: 10%;
+}
 
 .goPrice{
     position: absolute;

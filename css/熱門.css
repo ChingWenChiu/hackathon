@@ -28,6 +28,10 @@ body{
     z-index: 1;
 }
 
+#logo{
+    width: 10%;
+}
+
 .goPrice{
     position: absolute;
     top: 0;
